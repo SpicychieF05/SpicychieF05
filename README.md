@@ -4,7 +4,7 @@
 💼 Techsaksham Ai Intern. Building AI-powered resume screening and ranking system.<br/>
 🤖 Ai Enthusiast. and Front-end Developer Fresher.<br/>
 🔗 LinkedIn Profile - https://www.linkedin.com/in/chirantan-mallick <br/>
-🔥 https://x.com/Chirantan2965 <br/>
+🔥 X Profile - https://x.com/Chirantan2965 <br/>
 💬 WhatsApp - https://rb.gy/uxjdk/ <br/>
 📧 Email - mallickchirantan@gmail.com <br/>
 
