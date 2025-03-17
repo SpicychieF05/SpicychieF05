@@ -1,7 +1,6 @@
 ## Hi, I am Chirantan Mallick.
 aka SpicychieF ✨
 
-🎓 Pursuing BCA (Bachelor of Computer Applications) From Seacom Skills University. <br/>
 🎓 Pursuing BCA (Bachelor of Computer Applications) From [Seacom Skills University](https://seacomskillsuniversity.org/). <br/>
 💼 Techsaksham Ai Intern. Building AI-powered resume screening and ranking system.<br/>
 🤖 Ai Enthusiast. and Front-end Developer Fresher.<br/>
