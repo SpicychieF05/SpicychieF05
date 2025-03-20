@@ -28,5 +28,5 @@ aka SpicychieF ✨
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/chirantan_mallick)
 [![Google Pay](https://img.shields.io/badge/Google%20Pay-007EE5?style=for-the-badge&logo=google-pay&logoColor=white)](upi://pay?pa=mallickchirantan@oksbi&pn=Chirantan%20Mallick&cu=INR)
 
-This Google Pay link works only on smartphones.
+The Google Pay link works only on smartphones.
 
