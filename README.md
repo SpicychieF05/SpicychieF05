@@ -43,3 +43,13 @@ A system designed to automate the screening and ranking of resumes using artific
 [![Google Pay](https://img.shields.io/badge/Google%20Pay-007EE5?style=for-the-badge&logo=google-pay&logoColor=white)](upi://pay?pa=mallickchirantan@oksbi&pn=Chirantan%20Mallick&cu=INR)
 
 *The Google Pay link works only on smartphones.*
+
+## Why is this smane eating all my contributions ? 🤨 
+
+![snake gif](https://github.com/SpicychieF05/SpicychieF05/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
