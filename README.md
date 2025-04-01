@@ -44,12 +44,9 @@ A system designed to automate the screening and ranking of resumes using artific
 
 *The Google Pay link works only on smartphones.*
 
-## Why is this smane eating all my contributions ? 🤨 
-
-![snake gif](https://github.com/SpicychieF05/SpicychieF05/blob/output/github-contribution-grid-snake.svg)
+## Why is this snake eating all my contributions? 🤨 
 
 
-
-
+![snake gif](https://github.com/SpicychieF05/SpicychieF05/blob/output/github-snake-dark.svg)
 
 
