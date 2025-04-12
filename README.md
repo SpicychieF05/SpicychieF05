@@ -9,14 +9,38 @@ aka SpicychieF ✨
 💬 WhatsApp - [https://rb.gy/uxjdk/](https://rb.gy/uxjdk/)  
 📧 Email - mallickchirantan@gmail.com  
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EmRcW9rnGs)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://rb.gy/uxjdk)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Chirantan2965)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heres_chirantan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirantan-mallick)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Chirantan2965)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mallickchirantan@gmail.com)
+# Connect with me on Social Media
+
+<p align="center">
+  <a href="https://linkedin.com/in/chirantan-mallick" target="_blank">
+    <img src="https://raw.githubusercontent.com/SpicychieF05/SpicychieF05/main/assets/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" style="border-radius: 50%; margin-right: 15px;" />
+  </a>
+
+  <a href="https://x.com/Chirantan2965" target="_blank">
+    <img src="https://raw.githubusercontent.com/SpicychieF05/SpicychieF05/main/assets/x-icon.svg" alt="X" width="40" height="40" style="border-radius: 50%; margin-right: 15px;" />
+  </a>
+
+  <a href="https://instagram.com/heres_chirantan" target="_blank">
+    <img src="https://raw.githubusercontent.com/SpicychieF05/SpicychieF05/main/assets/instagram-icon.svg" alt="Instagram" width="40" height="40" style="border-radius: 50%; margin-right: 15px;" />
+  </a>
+
+  <a href="https://www.facebook.com/Chirantan2965" target="_blank">
+    <img src="https://raw.githubusercontent.com/SpicychieF05/SpicychieF05/main/assets/facebook-icon.svg" alt="Facebook" width="40" height="40" style="border-radius: 50%; margin-right: 15px;" />
+  </a>
+
+  <a href="https://rb.gy/uxjdk" target="_blank">
+    <img src="https://raw.githubusercontent.com/SpicychieF05/SpicychieF05/main/assets/whatsapp-icon.svg" alt="WhatsApp" width="40" height="40" style="border-radius: 50%; margin-right: 15px;" />
+  </a>
+
+  <a href="https://discord.gg/EmRcW9rnGs" target="_blank">
+    <img src="https://raw.githubusercontent.com/SpicychieF05/SpicychieF05/main/assets/discord-icon.svg" alt="Discord" width="40" height="40" style="border-radius: 50%; margin-right: 15px;" />
+  </a>
+
+  <a href="mailto:mallickchirantan@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/SpicychieF05/SpicychieF05/main/assets/email-icon.svg" alt="Email" width="40" height="40" style="border-radius: 50%; margin-right: 15px;" />
+  </a>
+</p>
+
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
