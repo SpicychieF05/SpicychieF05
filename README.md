@@ -11,7 +11,8 @@ aka SpicychieF ✨
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EmRcW9rnGs)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Dninja2965)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://rb.gy/uxjdk)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Chirantan2965)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heres_chirantan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirantan-mallick)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Chirantan2965)
@@ -40,9 +41,7 @@ A system designed to automate the screening and ranking of resumes using artific
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chirantan2965?country.x=IN&locale.x=en_GB)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/chirantan_mallick)
-[![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?style=for-the-badge&logo=google-pay&logoColor=white)](https://pay.google.com/gp/p/ui/pay?pa=mallickchirantan@oksbi&pn=Chirantan%20Mallick&cu=INR)
 
-*The Google Pay link works only on smartphones.*
 
 ## Why is this snake eating all my contributions? 🤨 
 
