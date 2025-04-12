@@ -40,7 +40,7 @@ A system designed to automate the screening and ranking of resumes using artific
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chirantan2965?country.x=IN&locale.x=en_GB)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/chirantan_mallick)
-[![Google Pay](https://img.shields.io/badge/Google%20Pay-007EE5?style=for-the-badge&logo=google-pay&logoColor=white)](upi://pay?pa=mallickchirantan@oksbi&pn=Chirantan%20Mallick&cu=INR)
+[![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?style=for-the-badge&logo=google-pay&logoColor=white)](https://pay.google.com/gp/p/ui/pay?pa=mallickchirantan@oksbi&pn=Chirantan%20Mallick&cu=INR)
 
 *The Google Pay link works only on smartphones.*
 
