@@ -1,15 +1,15 @@
-## Hi, I am Chirantan Mallick.
+## Hi, I am Chirantan Mallick. 👋🏻
 aka SpicychieF ✨
 
-🎓 Pursuing BCA (Bachelor of Computer Applications) from [Seacom Skills University](https://seacomskillsuniversity.org/).  
-💼 Techsaksham AI Intern. Building AI-powered resume screening and ranking system.  
-🤖 AI Enthusiast and Front-end Developer Fresher.  
-🔗 LinkedIn Profile - [https://www.linkedin.com/in/chirantan-mallick](https://www.linkedin.com/in/chirantan-mallick)  
-🔥 X Profile - [https://x.com/Chirantan2965](https://x.com/Chirantan2965)  
-💬 WhatsApp - [https://rb.gy/uxjdk/](https://rb.gy/uxjdk/)  
-📧 Email - mallickchirantan@gmail.com  
+* 🎓 Pursuing BCA (Bachelor of Computer Applications) from [Seacom Skills University](https://seacomskillsuniversity.org/).
+* 💼 Techsaksham AI Intern. Building AI-powered resume screening and ranking system.
+* 🤖 AI Enthusiast and Front-end Developer Fresher.
+* 🔗 LinkedIn Profile - [https://www.linkedin.com/in/chirantan-mallick](https://www.linkedin.com/in/chirantan-mallick)
+* 🔥 X Profile - [https://x.com/Chirantan2965](https://x.com/Chirantan2965)
+* 💬 WhatsApp - [https://rb.gy/uxjdk/](https://rb.gy/uxjdk/)
+* 📧 Email - mallickchirantan@gmail.com
 
-# 🌐 Connect with me 
+# 🌐 Connect with me 
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EmRcW9rnGs)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://rb.gy/uxjdk)
@@ -44,9 +44,7 @@ A system designed to automate the screening and ranking of resumes using artific
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/chirantan_mallick)
 
 
-## Why is this snake eating all my contributions? 🤨 
+## Why is this snake eating all my contributions? 🤨 
 
 
-![Snake SVG](https://github.com/SpicychieF05/SpicychieF05/blob/output/github-snake-dark.svg)
-
-
+![Snake SVG](https://raw.githubusercontent.com/SpicychieF05/SpicychieF05/output/github-snake-dark.svg)
