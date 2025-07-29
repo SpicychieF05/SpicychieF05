@@ -11,13 +11,13 @@ aka SpicychieF ✨
 
 # 🌐 Connect with me 
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EmRcW9rnGs)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://rb.gy/uxjdk)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Chirantan2965)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heres_chirantan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirantan-mallick)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Chirantan2965)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://tr.ee/9Vp509xCxy)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white)](https://discord.gg/EmRcW9rnGs)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=plastic&logo=whatsapp&logoColor=white)](https://rb.gy/uxjdk)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)](https://www.facebook.com/Chirantan2965)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/heres_chirantan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/chirantan-mallick)
+[![X](https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white)](https://x.com/Chirantan2965)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=plastic&logo=gmail&logoColor=white)](https://tr.ee/9Vp509xCxy)
 
 ## 🚀 Skills & Technologies
 
