@@ -3,7 +3,7 @@ aka SpicychieF ✨
 
 * 🎓 Pursuing BCA (Bachelor of Computer Applications) from [Seacom Skills University](https://seacomskillsuniversity.org/).
 * 💼 Former IBM AI Intern. Built an AI-powered salary prediction app "[SalaryScope](https://salary-scope-spicychief.streamlit.app/)." with a machine learning model achieving 96% R² accuracy.
-* 🤖 AI Enthusiast and Front-end Developer, AI Worm and a ML Model Enthusiast.
+* 🤖 3rd Year BCA Student, Front-end Developer, AI Worm and a ML Model Enthusiast.
 * 🔗 LinkedIn Profile - [https://www.linkedin.com/in/chirantan-mallick](https://www.linkedin.com/in/chirantan-mallick)
 * 🔥 X Profile - [https://x.com/Chirantan2965](https://x.com/Chirantan2965)
 * 💬 WhatsApp - [https://rb.gy/uxjdk/](https://rb.gy/uxjdk/)
