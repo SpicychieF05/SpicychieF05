@@ -2,8 +2,8 @@
 aka SpicychieF ✨
 
 * 🎓 Pursuing BCA (Bachelor of Computer Applications) from [Seacom Skills University](https://seacomskillsuniversity.org/).
-* 💼 Techsaksham AI Intern. Building AI-powered resume screening and ranking system.
-* 🤖 AI Enthusiast and Front-end Developer Fresher.
+* 💼 Former IBM AI Intern. Built an AI-powered salary prediction app "[SalaryScope](https://salary-scope-spicychief.streamlit.app/)." with a machine learning model achieving 96% R² accuracy.
+* 🤖 AI Enthusiast and Front-end Developer, AI Worm and a ML Model Enthusiast.
 * 🔗 LinkedIn Profile - [https://www.linkedin.com/in/chirantan-mallick](https://www.linkedin.com/in/chirantan-mallick)
 * 🔥 X Profile - [https://x.com/Chirantan2965](https://x.com/Chirantan2965)
 * 💬 WhatsApp - [https://rb.gy/uxjdk/](https://rb.gy/uxjdk/)
@@ -37,6 +37,13 @@ aka SpicychieF ✨
 ### AI-Powered Resume Screening System
 A system designed to automate the screening and ranking of resumes using artificial intelligence, enhancing the recruitment process by efficiently identifying top candidates.
 
+### Secure Academic Note-Sharing Platform (Semester Hub)
+A modern and secure platform for students to share, discover, and access high-quality academic notes. This system is built with React, Firebase, and Tailwind CSS, and it features authentication-protected downloads.
+
+### AI-Powered Salary Prediction App (SalaryScope)
+An application that utilizes a machine learning model to predict salaries. This tool was built to provide salary estimations and achieved a 96% R² accuracy with its prediction model.
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SpicychieF05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=SpicychieF05&theme=tokyonight&hide_border=false)
@@ -44,6 +51,7 @@ A system designed to automate the screening and ranking of resumes using artific
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SpicychieF05&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chirantan2965?country.x=IN&locale.x=en_GB)
