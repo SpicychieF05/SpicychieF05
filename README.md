@@ -34,14 +34,14 @@ aka SpicychieF ✨
 
 
 ## 📂 Latest Project:
-### AI-Powered Resume Screening System
-A system designed to automate the screening and ranking of resumes using artificial intelligence, enhancing the recruitment process by efficiently identifying top candidates.
-
 ### Secure Academic Note-Sharing Platform (Semester Hub)
 A modern and secure platform for students to share, discover, and access high-quality academic notes. This system is built with React, Firebase, and Tailwind CSS, and it features authentication-protected downloads.
 
 ### AI-Powered Salary Prediction App (SalaryScope)
 An application that utilizes a machine learning model to predict salaries. This tool was built to provide salary estimations and achieved a 96% R² accuracy with its prediction model.
+
+### AI-Powered Resume Screening System
+A system designed to automate the screening and ranking of resumes using artificial intelligence, enhancing the recruitment process by efficiently identifying top candidates.
 
 
 ## 📊 GitHub Stats:
