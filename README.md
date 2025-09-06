@@ -33,17 +33,6 @@ aka SpicychieF ✨
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%23111827.svg?style=plastic&logo=openai&logoColor=white)
 
 
-## 📂 Latest Project:
-### Secure Academic Note-Sharing Platform (Semester Hub)
-A modern and secure platform for students to share, discover, and access high-quality academic notes. This system is built with React, Firebase, and Tailwind CSS, and it features authentication-protected downloads.
-
-### AI-Powered Salary Prediction App (SalaryScope)
-An application that utilizes a machine learning model to predict salaries. This tool was built to provide salary estimations and achieved a 96% R² accuracy with its prediction model.
-
-### AI-Powered Resume Screening System
-A system designed to automate the screening and ranking of resumes using artificial intelligence, enhancing the recruitment process by efficiently identifying top candidates.
-
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SpicychieF05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=SpicychieF05&theme=tokyonight&hide_border=false)
