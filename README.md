@@ -43,8 +43,9 @@ aka SpicychieF ✨
 
 
 ## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chirantan2965?country.x=IN&locale.x=en_GB)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/chirantan_mallick)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chirantan2965?country.x=IN&locale.x=en_GB)<a href="https://www.buymeacoffee.com/chirantan_mallick">
+  <img src="https://media.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" alt="Buy Me A Coffee" width="5%" />
+</a>
 
 
 ## Why is this snake eating all my contributions? 🤨 
