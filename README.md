@@ -1,5 +1,4 @@
-## Hi, I am Chirantan Mallick. 👋🏻
-aka SpicychieF ✨
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=56D364&center=true&width=800&height=60&lines=Welcome+to+Chirantan's+GitHub;He+is+a+Coder%2C;He+is+a+Developer%2C;He+is+a+Software+Engineer%2C;He+is+an+AI%2FML+Enthusiasts%2C;And+many+more.)](https://git.io/typing-svg)
 
 * 🎓 Pursuing BCA (Bachelor of Computer Applications) from [Seacom Skills University](https://seacomskillsuniversity.org/).
 * 💼 Former IBM AI Intern. Built an AI-powered salary prediction app "[SalaryScope](https://salary-scope-spicychief.streamlit.app/)." with a machine learning model achieving 96% R² accuracy.
