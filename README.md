@@ -34,6 +34,9 @@ aka SpicychieF ✨
 
 
 ## 📊 GitHub Stats:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SpicychieF05&bg_color=000000&color=79a3d2&line=26a641&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 ![](https://github-readme-stats.vercel.app/api?username=SpicychieF05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=SpicychieF05&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SpicychieF05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
