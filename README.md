@@ -1,7 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=56D364&center=true&width=800&height=60&lines=Welcome+to+Chirantan's+GitHub;He+is+a+Coder%2C;He+is+a+Developer%2C;He+is+a+Software+Engineer%2C;He+is+an+AI%2FML+Enthusiasts%2C;And+many+more.)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SpicychieF05&label=Profile views&color=0e75b6&style=flat" alt="SpicychieF05" /> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=spicychief05&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/spicychief05)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SpicychieF05" alt="SpicychieF05" /></a> </p>
 
