@@ -1,5 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=56D364&center=true&width=800&height=60&lines=Welcome+to+Chirantan's+GitHub;He+is+a+Coder%2C;He+is+a+Developer%2C;He+is+a+Software+Engineer%2C;He+is+an+AI%2FML+Enthusiasts%2C;And+many+more.)](https://git.io/typing-svg)
 
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SpicychieF05&label=Profile views&color=0e75b6&style=flat" alt="SpicychieF05" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SpicychieF05" alt="SpicychieF05" /></a> </p>
+---
+
 * 🎓 Pursuing BCA (Bachelor of Computer Applications) from [Seacom Skills University](https://seacomskillsuniversity.org/).
 * 💼 Former IBM AI Intern. Built an AI-powered salary prediction app "[SalaryScope](https://salary-scope-spicychief.streamlit.app/)." with a machine learning model achieving 96% R² accuracy.
 * 🤖 3rd Year BCA Student, Front-end Developer, AI Worm and a ML Model Enthusiast.
