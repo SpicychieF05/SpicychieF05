@@ -8,14 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/Chirantan2965" target="blank"><img src="https://img.shields.io/twitter/follow/Chirantan2965?logo=twitter&style=for-the-badge" alt="Chirantan2965" /></a> </p>
 
-- 🔭 I'm currently working on ***Clair-Ai*, an Ai real time Voice assistant for windows devices, just like Gemini Live.**
+- 🔭 I'm currently working on ***Clair-Ai*, an AI real-time Voice assistant for Windows devices, just like Gemini Live.**
 
 - 🌱 I'm currently learning **Something....**
 
 - 👯 I'm looking to collaborate on **SDE and Machine learning related Open Source Projects**
 
-- 💬 Ask me about **Web Development, AI/ML, Data Visualisation, LLMs, Vibe Coding, Gaming etc.
-also you can ask me my number 😏**
+- 💬 Ask me about **Web Development, AI/ML, Data Visualisation, LLMs, Vibe Coding, Gaming, etc.
+Also, you can ask me for my number 😏**
 
 - 📫 How to reach me **mallickchirantan@gmail.com**
 
@@ -51,10 +51,9 @@ also you can ask me my number 😏**
 [![](https://visitcount.itsvg.in/api?id=SpicychieF05&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chirantan2965?country.x=IN&locale.x=en_GB)<a href="https://www.buymeacoffee.com/chirantan_mallick">
-  <img src="https://media.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" alt="Buy Me A Coffee" width="5%" />
-</a>
+## 💰 You can help me by donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chirantan2965?country.x=IN&locale.x=en_GB)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/chirantan_mallick)
 
 
 ## Why is this snake eating all my contributions? 🤨 
