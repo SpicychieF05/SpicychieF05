@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SpicychieF05" alt="SpicychieF05" /></a> </p>
 
+
 <p align="left"> <a href="https://twitter.com/Chirantan2965" target="blank"><img src="https://img.shields.io/twitter/follow/Chirantan2965?logo=twitter&style=for-the-badge" alt="Chirantan2965" /></a> </p>
 
 - 🔭 I'm currently working on ***Clair-Ai*, an AI real-time Voice assistant for Windows devices, just like Gemini Live.**
