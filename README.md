@@ -22,6 +22,8 @@ Also, you can ask me for my number 😏**
 
 - 📫 How to reach me **mallickchirantan@gmail.com**
 
+- [![Book Meeting](https://img.shields.io/badge/Schedule%20Time-5353FF?style=flat&logo=cal-com&logoColor=white)](https://cal.com/chirantan-mallick)
+
 - ⚡ Fun fact **I know who you are..
 ( ͡° ͜ʖ ͡°)**
 
