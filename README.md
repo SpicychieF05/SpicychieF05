@@ -3,10 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=56D364&center=true&width=800&height=60&lines=Welcome+to+Chirantan's+GitHub;He+is+a+Coder%2C;He+is+a+Developer%2C;He+is+a+Software+Engineer%2C;He+is+an+AI%2FML+Enthusiasts%2C;And+many+more.)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=spicychief05&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/spicychief05)
+[![](https://komarev.com/ghpvc/?username=spicychief05&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/spicychief05)
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SpicychieF05" alt="SpicychieF05" /></a> </p>
+## 🏆My Code Cups
+![](https://github-trophies.vercel.app/?username=spicychief05&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 
 <p align="left"> <a href="https://twitter.com/Chirantan2965" target="blank"><img src="https://img.shields.io/twitter/follow/Chirantan2965?logo=twitter&style=for-the-badge" alt="Chirantan2965" /></a> </p>
@@ -55,6 +55,11 @@ Also, you can ask me for my number 😏**
 ---
 [![](https://visitcount.itsvg.in/api?id=SpicychieF05&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+---
 
 ## 💰 You can help me by donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chirantan2965?country.x=IN&locale.x=en_GB)
