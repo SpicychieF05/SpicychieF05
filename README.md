@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/Chirantan2965" target="blank"><img src="https://img.shields.io/twitter/follow/Chirantan2965?logo=twitter&style=for-the-badge" alt="Chirantan2965" /></a> </p>
 
-- 🔭 I'm currently working on ***Clair-Ai*, an AI real-time Voice assistant for Windows devices, just like Gemini Live.**
+- 🔭 I'm currently developing ***Vayu Player**, a video streaming platform with a focus on a premium, dark glass aesthetic and advanced streaming capabilities.**
 
 - 🌱 I'm currently learning **Something....**
 
