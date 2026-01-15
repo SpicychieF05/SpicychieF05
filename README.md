@@ -3,6 +3,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=56D364&center=true&width=800&height=60&lines=Welcome+to+Chirantan's+GitHub;He+is+a+Coder%2C;He+is+a+Developer%2C;He+is+a+Software+Engineer%2C;He+is+an+AI%2FML+Enthusiasts%2C;And+many+more.)](https://git.io/typing-svg)
 
+###
+
+<div align="center">
+  <img height="200" width="400" src="https://res.cloudinary.com/dlxybta5a/image/upload/v1768505824/ahh13p_jtnhwt.gif"  />
+</div>
+
+###
+
 [![](https://komarev.com/ghpvc/?username=spicychief05&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/spicychief05)
 
 ## 🏆My Code Cups
