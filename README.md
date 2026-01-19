@@ -7,7 +7,6 @@
 <img height="200" width="400" src="https://res.cloudinary.com/dlxybta5a/image/upload/v1768505824/ahh13p_jtnhwt.gif" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=spicychief05&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/spicychief05)
-
 </div>
 
 ---
@@ -34,7 +33,7 @@
 
 <div align="center">
 
-![Trophies](https://github-trophies.vercel.app/?username=spicychief05&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-trophies.vercel.app/?username=spicychief05&theme=flat&no-frame=false&no-bg=false&margin-w=4&bg_color=0D1117)
 
 </div>
 
@@ -273,12 +272,12 @@
 <br/>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SpicychieF05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=SpicychieF05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SpicychieF05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117" alt="GitHub Stats" />
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=SpicychieF05&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpicychieF05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpicychieF05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 </div>
@@ -289,7 +288,7 @@
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117)
 
 </div>
 
