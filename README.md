@@ -267,7 +267,7 @@
 
 ### 💻 Code Chronicles
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SpicychieF05&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SpicychieF05&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=309F94&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
