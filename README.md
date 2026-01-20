@@ -272,12 +272,12 @@
 <br/>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SpicychieF05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SpicychieF05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
   <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=SpicychieF05&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpicychieF05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D1117" alt="Top Languages"/> 
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpicychieF05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117" alt="Top Languages"/> 
 </p>
 
 </div>
