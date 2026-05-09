@@ -1,319 +1,290 @@
-![SpicychieF05's GitHub Banner](https://res.cloudinary.com/dlxybta5a/image/upload/v1768398561/SpicychieF05-readme-banner_pyowdh.png)
+![Chirantan GitHub Banner](https://res.cloudinary.com/dlxybta5a/image/upload/v1778309816/6ejC8Ks1_h62ade.jpg)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=56D364&center=true&width=800&height=60&lines=Welcome+to+Chirantan's+GitHub;He+is+a+Coder%2C;He+is+a+Developer%2C;He+is+a+Software+Engineer%2C;He+is+an+AI%2FML+Enthusiasts%2C;And+many+more.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=00D9FF&center=true&vCenter=true&width=1000&height=60&lines=Turning+Raw+Data+into+Actionable+Insights.;SQL+•+Excel+•+Python+•+Power+BI+•+AI+Agents+•+WebTech;Data+Cleaning+%7C+EDA+%7C+Dashboarding;Business+Analytics+%7C+Visualization+%7C+Storytelling)](https://git.io/typing-svg)
 
-<img height="200" width="400" src="https://res.cloudinary.com/dlxybta5a/image/upload/v1768505824/ahh13p_jtnhwt.gif" />
+<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=spicychief05&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/spicychief05)
+[![Profile Views](https://komarev.com/ghpvc/?username=SpicychieF05&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/SpicychieF05)
+
 </div>
 
 ---
 
-## 📑 Table of Contents
+# 📑 Table of Contents
 
 <details>
-<summary>Click to expand</summary>
+<summary><b>Click to Expand</b></summary>
 
-- [🏆 My Code Cups](#-my-code-cups)
 - [👨‍💻 About Me](#-about-me)
-- [🤝 Connect with Me](#-connect-with-me)
-- [🛠️ Language and Tools](#️-language-and-tools)
-- [📊 GitHub Stats](#-github-stats)
-- [✍️ Random Dev Quote](#️-random-dev-quote)
-- [💰 Support Me](#-support-me)
-- [🐍 Contribution Snake](#-contribution-snake)
+- [🛠️ Analytics Tech Stack](#️-analytics-tech-stack)
+- [📌 Featured Analytics Projects](#-featured-analytics-projects)
+- [🎓 Certifications & Learning](#-certifications--learning)
+- [📊 GitHub Analytics](#-github-analytics)
+- [🤝 Connect With Me](#-connect-with-me)
+- [📈 Fun Data Fact](#-fun-data-fact)
 
 </details>
 
 ---
 
-## 🏆 My Code Cups
+# 👨‍💻 About Me
 
 <div align="center">
 
-![Trophies](https://github-trophies.vercel.app/?username=spicychief05&theme=flat&no-frame=false&no-bg=false&margin-w=4&bg_color=0D1117)
+### Chirantan Mallick | Data Analyst & Analytics Enthusiast
+
+</div>
+
+- 🔭 Currently building **data analytics portfolio projects focused on business insights and dashboard storytelling**
+- 🌱 Currently learning **Advanced SQL & Power BI Dashboarding**
+- 👯 Open to collaborating on **Data Analytics Projects, Dashboard Development, and Open-Source Analytics Tools**
+- 💬 Ask me about **SQL, Python for Data Analysis, EDA, Dashboarding, and Business Analytics**
+- 📫 Reach me at **mallickchirantan@gmail.com**
+- ⚡ Fun Fact: **My dashboards are cleaner than your past.**
+- 🌐 Portfolio: **[chirantanmallick.vercel.app](https://chirantanmallick.vercel.app/)**
+
+<div align="center">
+
+[![Schedule Meeting](https://img.shields.io/badge/Schedule%20Meeting-00D9FF?style=for-the-badge&logo=googlecalendar&logoColor=black)](https://cal.com/chirantan-mallick)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🛠️ Analytics Tech Stack
 
 <div align="center">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Chirantan2965?logo=twitter&style=for-the-badge)](https://twitter.com/Chirantan2965)
-
-</div>
-
-- 🔭 I'm currently developing **Vayu Player, a video streaming platform with a focus on a premium, dark glass aesthetic and advanced streaming capabilities.**
-
-- 🌱 I'm currently learning **Something....**
-
-- 👯 I'm looking to collaborate on **SDE and Machine learning related Open Source Projects**
-
-- 💬 Ask me about **Web Development, AI/ML, Data Visualisation, LLMs, Vibe Coding, Gaming, etc. Also, you can ask me for my number 😏**
-
-- 📫 How to reach me **mallickchirantan@gmail.com**
-
-- 📅 [![Book Meeting](https://img.shields.io/badge/Schedule%20Time-5353FF?style=flat&logo=cal-com&logoColor=white)](https://cal.com/chirantan-mallick)
-
-- ⚡ Fun fact **I know who you are.. ( ͡° ͜ʖ ͡°)**
-
-- 👨‍💻 All of my projects are available at **[chirantanmallick.vercel.app](https://chirantanmallick.vercel.app/)**
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-<a href="https://github.com/SpicychieF05" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
-</a>
-<a href="https://linkedin.com/in/chirantan-mallick" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-</a>
-<a href="https://twitter.com/Chirantan2965" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-</a>
-<a href="https://instagram.com/heres_chirantan" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-</a>
-<a href="https://dev.to/spicychief05" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="40" width="40" />
-</a>
-<a href="https://kaggle.com/chirantanmallick" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" />
-</a>
-<a href="https://fb.com/Chirantan2965" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
-</a>
-
-</div>
-
----
-
-## 🛠️ Language and Tools
-
-<div align="center">
-
-### 🔤 Programming Languages
+## 💻 Programming Languages
 
 <p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="50" height="50"/>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=c" alt="c" width="50" height="50"/>
-</a>
-<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="50" height="50"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=py" alt="python" width="50" height="50"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Frontend Technologies
-
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="45" height="45"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="45" height="45"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=react" alt="react" width="45" height="45"/>
-</a>
-<a href="https://angular.io" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="45" height="45"/>
-</a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="45" height="45"/>
-</a>
-<a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/framer" alt="framer" width="45" height="45"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="45" height="45"/>
-</a>
-</p>
-
-### 🤖 Machine Learning & Data Science
-
-<p align="center">
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="45" height="45"/>
-</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="45" height="45"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="45" height="45"/>
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-</a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="45" height="45"/>
-</a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="45" height="45"/>
-</a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
-</a>
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="45" height="45"/>
-</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend & Database
-
-<p align="center">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="45" height="45"/>
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="45" height="45"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="45" height="45"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="45" height="45"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="45" height="45"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="45" height="45"/>
-</a>
-</p>
-
-### 🛠️ DevOps & Tools
-
-<p align="center">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="45" height="45"/>
-</a>
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=github" alt="github" width="45" height="45"/>
-</a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="45" height="45"/>
-</a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="45" height="45"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="45" height="45"/>
-</a>
-<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="45" height="45"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="45" height="45"/>
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="45" height="45"/>
-</a>
-</p>
-
-### 🎯 Other
-
-<p align="center">
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="45" height="45"/>
-</a>
-<a href="https://ollama.ai/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/ollama/000000" alt="ollama" width="45" height="45" style="background-color: white; padding: 2px; border-radius: 4px;"/>
-</a>
-<a href="https://zapier.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="45" height="45"/>
-</a>
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Web Technologies
 
-<div align="center">
-
-### 💻 Code Chronicles
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SpicychieF05&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=309F94&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SpicychieF05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=SpicychieF05&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpicychieF05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117" alt="Top Languages"/> 
+---
+
+## 📊 Data Analytics & Visualization
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
+  <img src="https://cdn.simpleicons.org/seaborn/00D9FF" height="50"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="50"/>
+</p>
+
+---
+
+## 🗄️ Databases & Data Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/00D9FF" height="50"/>
+  <img src="https://cdn.simpleicons.org/oracle/F80000" height="50"/>
+</p>
+
+---
+
+## ⚙️ Analytics & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="50"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="50"/>
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853" height="50"/>
+  <img src="https://cdn.simpleicons.org/notion/FFFFFF" height="50"/>
+</p>
+
+---
+
+## 🎨 Creative & AI Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50"/>
+  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="50"/>
 </p>
 
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
+# 📌 Featured Analytics Projects
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117)
+### 📊 SQL Business Analysis Project
+
+Business data analysis project focused on extracting insights, KPI trends, and reporting metrics using structured SQL queries.
+
+**Tech Stack**
+
+![SQL](https://img.shields.io/badge/SQL-00D9FF?style=for-the-badge&logo=postgresql&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=00D9FF)
+![Analytics](https://img.shields.io/badge/Business%20Analytics-111827?style=for-the-badge&logoColor=00D9FF)
+
+🔗 **[View Repository](#)**
+
+---
+
+### 📈 Retail Sales Dashboard (Power BI)
+
+Interactive retail analytics dashboard designed to visualize sales performance, revenue trends, customer insights, and business KPIs.
+
+**Tech Stack**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Dashboarding-111827?style=for-the-badge&logoColor=00D9FF)
+
+🔗 **[View Repository](#)**
+
+---
+
+### 📉 Excel Dashboard Project
+
+Dynamic dashboard project featuring KPI reporting, charts, pivot tables, slicers, and executive-style business reporting.
+
+**Tech Stack**
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-00D9FF?style=for-the-badge&logoColor=black)
+![Visualization](https://img.shields.io/badge/Visualization-111827?style=for-the-badge&logoColor=00D9FF)
+
+🔗 **[View Repository](#)**
 
 </div>
 
 ---
 
-## 💰 Support Me
+# 🎓 Certifications & Learning
 
 <div align="center">
 
-If you like my work, consider supporting me! ☕
+### 🏅 AICTE Internship Program
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chirantan2965?country.x=IN&locale.x=en_GB)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/chirantan_mallick)
+Industry-focused internship experience with practical exposure to emerging technologies.
+
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](#)
+
+---
+
+### 🧠 AI & Machine Learning Internship — Edunet Foundation
+
+Hands-on internship experience with mentor-led learning and applied AI concepts.
+
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](#)
+
+---
+
+### 🤖 IBM SkillsBuild Learning Program
+
+Professional learning program focused on technology fundamentals and practical digital skills.
+
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](#)
 
 </div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+![Advanced SQL](https://img.shields.io/badge/Advanced%20SQL-00D9FF?style=for-the-badge&logo=postgresql&logoColor=black)
+![Power BI Dashboarding](https://img.shields.io/badge/Power%20BI%20Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=SpicychieF05&theme=algolia&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📈 Contribution Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SpicychieF05&bg_color=000814&color=00D9FF&line=00D9FF&point=7FFFD4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SpicychieF05&show_icons=true&theme=algolia&hide_border=true&count_private=true&bg_color=000814"/>
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=SpicychieF05&theme=algolia&hide_border=true&background=000814"/>
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
+<img src="https://raw.githubusercontent.com/SpicychieF05/SpicychieF05/output/github-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
 <div align="center">
 
-### Why is this snake eating all my contributions? 🤨
+<p>
+  <a href="https://linkedin.com/in/chirantan-mallick" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+  </a>
+  <a href="https://github.com/SpicychieF05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00D9FF" />
+  </a>
+  <a href="https://kaggle.com/chirantanmallick" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=00D9FF" />
+  </a>
+  <a href="https://chirantanmallick.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=00D9FF" />
+  </a>
+</p>
 
-![Snake SVG](https://raw.githubusercontent.com/SpicychieF05/SpicychieF05/output/github-snake-dark.svg)
+<p>
+  <a href="https://cal.com/chirantan-mallick" target="_blank">
+    <img src="https://img.shields.io/badge/Schedule%20Meeting-111827?style=for-the-badge&logo=googlecalendar&logoColor=00D9FF" />
+  </a>
+  <a href="mailto:mallickchirantan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+  </a>
+  <a href="mailto:mallickchirantan@zohomail.in">
+    <img src="https://img.shields.io/badge/Zoho%20Mail-111827?style=for-the-badge&logo=zoho&logoColor=00D9FF" />
+  </a>
+  <a href="https://instagram.com/heres_chirantan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=00D9FF" />
+  </a>
+</p>
+
+</div>
+
+---
+
+# 📈 Fun Data Fact
+
+<div align="center">
+
+> **Did you know?**  
+> The world creates approximately **328.77 million terabytes of data every single day.**
 
 </div>
 
@@ -321,7 +292,7 @@ If you like my work, consider supporting me! ☕
 
 <div align="center">
 
-**Made with ❤️ by Chirantan Mallick**
+### Built with data, dashboards, and determination by Chirantan Mallick
 
 ⭐ From [SpicychieF05](https://github.com/SpicychieF05)
 
