@@ -41,7 +41,7 @@
 - 🌱 Currently learning **Advanced SQL & Power BI Dashboarding**
 - 👯 Open to collaborating on **Data Analytics Projects, Dashboard Development, and Open-Source Analytics Tools**
 - 💬 Ask me about **SQL, Python for Data Analysis, EDA, Dashboarding, and Business Analytics**
-- 📫 Reach me at **mallickchirantan@gmail.com**
+- 📫 Reach me at **[mallickchirantan@gmail.com](mailto:mallickchirantan@gmail.com)**
 - ⚡ Fun Fact: **My dashboards are cleaner than your past.**
 - 🌐 Portfolio: **[chirantanmallick.vercel.app](https://chirantanmallick.vercel.app/)**
 
@@ -141,7 +141,7 @@ Business data analysis project focused on extracting insights, KPI trends, and r
 
 ### 📈 Retail Sales Dashboard (Power BI)
 
-Interactive retail analytics dashboard designed to visualize sales performance, revenue trends, customer insights, and business KPIs.
+An interactive retail analytics dashboard designed to visualize sales performance, revenue trends, customer insights, and business KPIs.
 
 **Tech Stack**
 
@@ -177,7 +177,7 @@ Dynamic dashboard project featuring KPI reporting, charts, pivot tables, slicers
 
 Industry-focused internship experience with practical exposure to emerging technologies.
 
-[![View Certificate](https://img.shields.io/badge/View%20Certificate-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](#)
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](https://res.cloudinary.com/dlxybta5a/image/upload/v1755707992/AICTE_IBM-Edunet_Internship_ow2v3v.jpg)
 
 ---
 
@@ -185,7 +185,7 @@ Industry-focused internship experience with practical exposure to emerging techn
 
 Hands-on internship experience with mentor-led learning and applied AI concepts.
 
-[![View Certificate](https://img.shields.io/badge/View%20Certificate-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](#)
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](https://res.cloudinary.com/dlxybta5a/image/upload/v1754429352/TechSaksham-Internship-certificate_yepmjf.jpg)
 
 ---
 
@@ -193,7 +193,7 @@ Hands-on internship experience with mentor-led learning and applied AI concepts.
 
 Professional learning program focused on technology fundamentals and practical digital skills.
 
-[![View Certificate](https://img.shields.io/badge/View%20Certificate-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](#)
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](https://res.cloudinary.com/dlxybta5a/image/upload/v1754429365/IBMDesign20250723-29-5w2i6j_suosud.jpg)
 
 </div>
 
