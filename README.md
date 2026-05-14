@@ -282,15 +282,8 @@ Professional learning program focused on technology fundamentals and practical d
 
 ---
 
-# 📈 Fun Data Fact
-
-<div align="center">
-
-<!-- DATA_FUN_FACT_START -->
-Loading today's data fact...
-<!-- DATA_FUN_FACT_END -->
-
-</div>
+# 😜 Query, Coffee & Jokes
+![Random Joke](https://readme-jokes.vercel.app/api?theme=algolia&hideBorder&bgColor=%23000814)
 
 ---
 
