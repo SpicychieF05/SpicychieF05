@@ -75,37 +75,37 @@
 
 ## 📊 Data Analytics & Visualization
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
-  <img src="https://cdn.simpleicons.org/seaborn/00D9FF" height="50"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" height="50"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50" alt="Seaborn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="50"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="50" alt="Streamlit"/>
 </p>
 
 ---
 
 ## 🗄️ Databases & Data Platforms
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/00D9FF" height="50"/>
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50"/>
 </p>
 
 ---
 
 ## ⚙️ Analytics & Development Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="50"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="50"/>
-  <img src="https://cdn.simpleicons.org/googlesheets/34A853" height="50"/>
-  <img src="https://cdn.simpleicons.org/notion/FFFFFF" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="Excel"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/google-sheets-full-logo-1.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="50"/>
 </p>
 
 ---
@@ -222,14 +222,17 @@ Professional learning program focused on technology fundamentals and practical d
 
 ## 📈 Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SpicychieF05&bg_color=000814&color=00D9FF&line=00D9FF&point=7FFFD4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SpicychieF05&bg_color=0D1117&color=00D9FF&line=00D9FF&point=7FFFD4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SpicychieF05&show_icons=true&theme=algolia&hide_border=true&count_private=true&bg_color=000814"/>
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=SpicychieF05&theme=algolia&hide_border=true&background=000814"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SpicychieF05&theme=github_dark"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=SpicychieF05&theme=algolia&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+
+</div>
 
 ---
 
@@ -283,8 +286,9 @@ Professional learning program focused on technology fundamentals and practical d
 
 <div align="center">
 
-> **Did you know?**  
-> The world creates approximately **328.77 million terabytes of data every single day.**
+<!-- DATA_FUN_FACT_START -->
+Loading today's data fact...
+<!-- DATA_FUN_FACT_END -->
 
 </div>
 
