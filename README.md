@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SpicychieF05&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/SpicychieF05)
+[![Profile Views](https://komarev.com/ghpvc/?username=SpicychieF05&label=Profile%20Views&color=2C5D6D&style=for-the-badge)](https://github.com/SpicychieF05)
 
 </div>
 
