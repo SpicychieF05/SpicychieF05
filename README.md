@@ -47,7 +47,7 @@
 
 <div align="center">
 
-[![Schedule Meeting](https://img.shields.io/badge/Schedule%20Meeting-00D9FF?style=for-the-badge&logo=googlecalendar&logoColor=black)](https://cal.com/chirantan-mallick)
+[![Schedule Meeting](https://img.shields.io/badge/Schedule%20Meeting-28BECD?style=for-the-badge&logo=googlecalendar&logoColor=black)](https://cal.com/chirantan-mallick)
 
 </div>
 
