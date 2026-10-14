@@ -216,7 +216,7 @@ Professional learning program focused on technology fundamentals and practical d
 
 ## 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=SpicychieF05&theme=algolia&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=spicychief05&theme=onestar&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
