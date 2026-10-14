@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SpicychieF05&label=Profile%20Views&color=2C5D6D&style=for-the-badge)](https://github.com/SpicychieF05)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spicychief05-cm&label=Profile%20views&color=0e75b6&style=flat" alt="Spicychief" /> </p>
 
 </div>
 
